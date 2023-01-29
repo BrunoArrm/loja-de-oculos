@@ -1,0 +1,22 @@
+.produtos {
+    margin-bottom: 100px;
+}
+
+.produtos,
+.produtos--cabecalho,
+.produtos--rodape ul {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.produtos--cards {
+    display: flex;
+    flex-direction: column;
+}
+
+.produtos--cards1,
+.produtos--cards2 {
+    display: flex;
+}

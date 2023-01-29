@@ -1,0 +1,10 @@
+.subCard {
+    display: flex;
+    align-items: center;
+    color: white;
+}
+
+.subCard img {
+    width: 20px;
+    margin: 10px 10px 10px 0;
+}

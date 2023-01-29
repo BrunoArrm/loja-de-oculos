@@ -1,0 +1,14 @@
+.navbar--lista {
+    display: flex;
+    list-style: none;
+}
+
+.navbar--lista li {
+    margin-right: 3rem;
+}
+
+.navbar--lista a {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}

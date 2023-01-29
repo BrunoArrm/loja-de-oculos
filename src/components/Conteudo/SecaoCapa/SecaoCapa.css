@@ -1,0 +1,19 @@
+.secaoCapa {
+    position: relative;
+    margin-bottom: 100px;
+}
+
+.secaoCapa--texto {
+    position: absolute;
+    top:60%;
+    left: 5%;
+    color: white;
+}
+
+.secaoCapa img {
+    width: 100%;
+    height: 100%;
+    max-width: auto;
+    max-height: auto;
+
+}

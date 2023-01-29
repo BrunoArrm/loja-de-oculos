@@ -1,0 +1,15 @@
+.cabecalho {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px 0 20px;
+}
+
+.cabecalho img {
+    height: 90%;
+}

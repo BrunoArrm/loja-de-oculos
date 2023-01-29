@@ -1,0 +1,40 @@
+.sobre {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+
+.cardSobre {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.subCardSobre {
+    display: flex;
+}
+
+.subCardSobre img {
+    width: 50%;
+}
+
+.subCardSobre--agrupador {
+    width: 50%;
+    padding: 2rem;
+    justify-content: space-around;
+}
+
+.subCardSobre--agrupador {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.sobre,
+.subCardSobre--agrupador {
+    text-align: center;
+}
